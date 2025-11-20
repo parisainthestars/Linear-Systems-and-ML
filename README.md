@@ -1,6 +1,6 @@
 # Linear Algebra 
 
-This repository contains MATLAB Live Scripts (`.mlx`) for the practical projects of the Linear Algebra 401 course. The projects demonstrate the application of linear algebra in machine learning, signal processing, and system analysis.
+This repository contains MATLAB Live Scripts (`.mlx`) for the practical projects of the Linear Algebra course. The projects demonstrate the application of linear algebra in machine learning, signal processing, and system analysis.
 
 ## 📂 Project 1: Optimization & Machine Learning
 * **Least Squares Regression:** Synthetic data generation and MSE minimization with regularization ($\lambda$, $\sigma$).
